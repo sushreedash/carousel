@@ -1,1 +1,1 @@
-Carousel container & slider
+Carousel container & slider and Responsive
